@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Problem5</string>
+    <string name="selected_item">Selected Item</string>
+    <string name="open_bottom_sheet">Open Bottom Sheet</string>
+    <string name="enter_text">Enter text</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+</resources>
